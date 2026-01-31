@@ -81,3 +81,9 @@ Helps in building a strong professional online presence
 Successfully fulfills the requirements of the CODTECH internship Task-3
 
 Serves as a valuable addition to a student’s GitHub repository and portfolio
+
+#OUTPUT:
+
+<img width="2852" height="1248" alt="Image" src="https://github.com/user-attachments/assets/7518081e-f321-4655-9e8e-bb2e63a25b0a" />
+
+<img width="2597" height="1369" alt="Image" src="https://github.com/user-attachments/assets/633de1c2-913d-4681-bd72-6b28033b6376" />
